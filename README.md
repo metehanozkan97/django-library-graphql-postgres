@@ -37,7 +37,7 @@ Kütüpane Yönetim Sistemi API'si aşağıdaki işlevleri sağlar:
 1. **Depoyu Klonlayın:**
 
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/metehanozkan97/django-library-graphql-postgres)
    cd library_management
    ```
 

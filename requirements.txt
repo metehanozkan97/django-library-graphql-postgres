@@ -1,0 +1,9 @@
+Django
+djangorestframework
+psycopg2
+gunicorn
+django-extensions
+graphene-django
+django-filter
+djangorestframework-simplejwt
+django-debug-toolbar
